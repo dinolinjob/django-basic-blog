@@ -25,7 +25,7 @@ SECRET_KEY = '(@4!u#(v$+&ol!9!&^d*w_*26w$r88+g*20rqfz=2m8ay$qv*2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','dinolin.pythonanywhere.com']
 
 
 # Application definition
